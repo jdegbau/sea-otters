@@ -4,6 +4,12 @@ body {
   margin: 0px 5% 0px 5%;
 }
 
+section {
+  background: grey;
+  padding: 10px;
+  border-radius: 0px 0px 15px 15px;
+}
+
 /* Navigation Styling */
 nav {
   width: 100%;
